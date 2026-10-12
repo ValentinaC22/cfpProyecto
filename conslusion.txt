@@ -1,0 +1,9 @@
+Conclusión
+
+El desarrollo de este proyecto nos permitió comprender de manera práctica como se manejan los archivos Java. Aprendimos a leer y escribir archivos de texto por medio de BufferedReader y PrintWriter, a segmentar cada línea con el método split (;) y a convertir cadenas de texto en valores numéricos. Aprendimos a hacer uso de estructuras Hashmap para poder almacenar productos, precios y vendedores y que estos se relacionen en entre sí. Se utilizaron funciones para organizar los datos de menor a mayor. También pudimos generar datos de prueba.
+Reconocimos la importancia de documentar el código con Javadoc y también la importancia de emplear nombres claros para las variables ya que el hacer eso nos facilitó la comprensión a lo largo del desarrollo del proyecto. 
+
+Los conocimientos adquiridos serán de gran utilidad en el ámbito laboral especialmente en el procesamiento de reportes de ventas, inventarios y facturas. Esto permite calcular totales, ordenar información y generar informes de manera automatizada, ahorrándonos la necesidad de realizar el trabajo manualmente. También es de mucha ayuda para automatizar tareas repetitivas, validar información y generar datos de prueba. 
+
+La principal dificultad la encontramos al querer garantizar coherencia entre los distintos archivos. También enfrentamos retos en el manejo de errores, por ejemplo en líneas mal formateadas. 
+
